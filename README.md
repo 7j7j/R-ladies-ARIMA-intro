@@ -15,3 +15,15 @@ in the BMJ Journal of Epidemiology & Community Health at https://jech.bmj.com/co
 ... with many thanks to Mark at the University of Sheffield (https://www.researchgate.net/profile/Mark_Green10), and co-authors Danny Dorling, Jonathan Minton, and Kate E Pickett for the applied case in English health equity that surfaces such important and interesting policy questions <br>
 
 5) This README.md + MIT license for open-access, attributed usage of these materials - please minimise commercial gatekeeping
+
+
+# Original data sources for England
+1) ONS, Mid-year population estimates: https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/datasets/populationestimatesforukenglandandwalesscotlandandnorthernireland <br>
+2) ONS, Deaths registered monthly in England and Wales: https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/datasets/populationestimatesforukenglandandwalesscotlandandnorthernireland <br>
+3) NHS England and NHS Improvement, Delayed Transfers of Care (DTOCs) from August 2010 - present: https://www.england.nhs.uk/statistics/statistical-work-areas/delayed-transfers-of-care/<br>
+
+# Acknowledgments
+Huge cheers to the R Ladies London organising team, especially Emma Vestesson. <br>
+Brava to Ruslana Dalinina for an excellent model ARIMA tutorial at https://blogs.oracle.com/datascience/introduction-to-forecasting-with-arima-in-r <br>
+... and bravos to Rob J Hyndman & George Athanasopoulos for their open textbook <i>Forecasting: Principles and practice</i> at https://otexts.com/fpp2/
+Many thanks to the Health Foundation and UK Economic & Social Research Council, and LSHTM Public Health & Policy faculty for funding and hosting me. <br>
