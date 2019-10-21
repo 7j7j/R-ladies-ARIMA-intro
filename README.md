@@ -26,4 +26,4 @@ in the BMJ Journal of Epidemiology & Community Health at https://jech.bmj.com/co
 - Cheers for the R Ladies London team for collegially peer-reviewing and organising this workshop, especially Emma Vestesson (@emmavestesson). <br>
 - Brava to Ruslana Dalinina for an excellent model ARIMA tutorial at https://blogs.oracle.com/datascience/introduction-to-forecasting-with-arima-in-r <br>
 ... and bravos to Rob J Hyndman & George Athanasopoulos for their open textbook <i>Forecasting: Principles and practice</i> at https://otexts.com/fpp2/ <br>
-- Many thanks to the Health Foundation and UK Economic & Social Research Council, and LSHTM Public Health & Policy faculty for funding and hosting me.
+- Many thanks to the Health Foundation, UK Economic & Social Research Council, and LSHTM Public Health & Policy faculty, for funding and hosting me.
