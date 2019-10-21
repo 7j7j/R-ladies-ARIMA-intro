@@ -14,4 +14,4 @@ Please send questions & comments to julia.shen1 (at) lshtm (dot) ac (dot) uk
 in the BMJ Journal of Epidemiology & Community Health at https://jech.bmj.com/content/71/11/1068 <br>
 ... with many thanks to Mark at the University of Sheffield (https://www.researchgate.net/profile/Mark_Green10), and co-authors Danny Dorling, Jonathan Minton, and Kate E Pickett for the applied case that surfaced such an important and interesting policy question <br>
 
-5) This README.md + MIT license for open-access, non-commercial, attributed usage of these materials
+5) This README.md + MIT license for open-access, attributed usage of these materials - please minimise commercial gatekeeping
