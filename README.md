@@ -23,7 +23,7 @@ in the BMJ Journal of Epidemiology & Community Health at https://jech.bmj.com/co
 3) NHS England and NHS Improvement, Delayed Transfers of Care (DTOCs) from August 2010 - present: https://www.england.nhs.uk/statistics/statistical-work-areas/delayed-transfers-of-care/<br>
 
 # Acknowledgments
-- Cheers for the R Ladies London team for collegially peer-reviewing and organising this workshop, especially Emma Vestesson. <br>
+- Cheers for the R Ladies London team for collegially peer-reviewing and organising this workshop, especially Emma Vestesson (@emmavestesson). <br>
 - Brava to Ruslana Dalinina for an excellent model ARIMA tutorial at https://blogs.oracle.com/datascience/introduction-to-forecasting-with-arima-in-r <br>
 ... and bravos to Rob J Hyndman & George Athanasopoulos for their open textbook <i>Forecasting: Principles and practice</i> at https://otexts.com/fpp2/ <br>
 - Many thanks to the Health Foundation and UK Economic & Social Research Council, and LSHTM Public Health & Policy faculty for funding and hosting me.
