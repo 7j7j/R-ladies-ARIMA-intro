@@ -10,7 +10,7 @@ Please send questions & comments to julia.shen1 (at) lshtm (dot) ac (dot) uk
 
 # Directory
 1) Case DATA in <b>"ARIMA-intro.csv"</b> <br>
-2) ... with more contextual metadata and calculations in <b>"ARIMA-intro-meta.xls"</b> <br>
+2) ... with more contextual metadata and calculations in <b>"ARIMA-intro-meta.xlsx"</b> <br>
 3) Case CODE in <b>"ARIMA-intro.R"</b> available <b><i>24 Oct 2019</i></b> <br>
 4) Contextual and theoretical SLIDES, including important fundamentals of underlying statistical theory, in <b>"ARIMA-slides.pdf"</b> including a list of references and further useful reading available <b><i>24 Oct 2019</i></b><br> 
 5) Original inspiration for this practice case comes from Mark Green et al's article "Could the rise in mortality rates since 2015 be explained by changes in the number of delayed discharges of NHS patients?" <br>
