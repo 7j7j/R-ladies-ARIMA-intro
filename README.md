@@ -15,7 +15,7 @@ Please send questions & comments to julia.shen1 (at) lshtm (dot) ac (dot) uk
 4) Contextual and theoretical SLIDES, including important fundamentals of underlying statistical theory, in <b>"ARIMA-slides.pdf"</b> including a list of references and further useful reading <br> 
 5) Original inspiration for this practice case comes from Mark Green et al's article "Could the rise in mortality rates since 2015 be explained by changes in the number of delayed discharges of NHS patients?" <br>
 in the <i>BMJ Journal of Epidemiology & Community Health</i> at https://jech.bmj.com/content/71/11/1068 <br>
-... with many thanks to Mark at the University of Liverpool (https://www.researchgate.net/profile/Mark_Green10), and co-authors Danny Dorling, Jonathan Minton, and Kate E. Pickett for the applied example in English health geography that surfaces such important and interesting policy questions about service performance and equity. <br>
+... with many thanks to Mark at the University of Liverpool, and co-authors Danny Dorling, Jonathan Minton, and Kate E. Pickett for the applied example in English health geography that surfaces such important and interesting policy questions about service performance and equity. <br>
 
 6) This README.md + MIT license for open-access, attributed usage of these materials - please minimise commercial gatekeeping
 
