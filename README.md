@@ -11,8 +11,8 @@ Please send questions & comments to julia.shen1 (at) lshtm (dot) ac (dot) uk
 # Directory
 1) Case DATA in <b>"ARIMA-intro.csv"</b> <br>
 2) ... with more contextual metadata and calculations in <b>"ARIMA-intro-meta.xls"</b> <br>
-3) Case CODE in <b>"ARIMA-intro.R"</b> <br>
-4) Contextual and theoretical SLIDES, including important fundamentals of underlying statistical theory, in <b>"ARIMA-slides.pdf"</b> including a list of references and further useful reading <br> 
+3) Case CODE in <b>"ARIMA-intro.R"</b> available <b><i>24 Oct 2019</i></b> <br>
+4) Contextual and theoretical SLIDES, including important fundamentals of underlying statistical theory, in <b>"ARIMA-slides.pdf"</b> including a list of references and further useful reading available <b><i>24 Oct 2019</i></b><br> 
 5) Original inspiration for this practice case comes from Mark Green et al's article "Could the rise in mortality rates since 2015 be explained by changes in the number of delayed discharges of NHS patients?" <br>
 in the <i>BMJ Journal of Epidemiology & Community Health</i> at https://jech.bmj.com/content/71/11/1068 <br>
 ... with many thanks to Mark at the University of Liverpool, and co-authors Danny Dorling, Jonathan Minton, and Kate E. Pickett for the applied example in English health geography that surfaces such important and interesting policy questions about service performance and equity. <br>
@@ -26,7 +26,7 @@ in the <i>BMJ Journal of Epidemiology & Community Health</i> at https://jech.bmj
 3) NHS England and NHS Improvement, Delayed Transfers of Care (DTOCs) from August 2010 - present: https://www.england.nhs.uk/statistics/statistical-work-areas/delayed-transfers-of-care/<br>
 
 # Acknowledgments
-- Cheers for the R Ladies London team for collegial peer review and organisation, especially Emma Vestesson (@emmavestesson). <br>
+- Cheers for the R Ladies London team for collegial peer review and organisation, especially Emma Vestesson (<a href="https://github.com/emmavestesson">@emmavestesson</a>). <br>
 - Brava to Ruslana Dalinina for an excellent model ARIMA tutorial at https://blogs.oracle.com/datascience/introduction-to-forecasting-with-arima-in-r <br>
 ... and bravos to Rob J Hyndman & George Athanasopoulos for their open textbook <i>Forecasting: Principles and Practice</i> at https://otexts.com/fpp2/ <br>
 - Many thanks to the Health Foundation, UK Economic & Social Research Council, and LSHTM Public Health & Policy faculty, for funding and hosting me.
